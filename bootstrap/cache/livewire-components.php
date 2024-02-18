@@ -1,0 +1,15 @@
+<?php return array (
+  'add-account' => 'App\\Http\\Livewire\\AddAccount',
+  'customer' => 'App\\Http\\Livewire\\Customer',
+  'customer-account' => 'App\\Http\\Livewire\\CustomerAccount',
+  'customer-calculation' => 'App\\Http\\Livewire\\CustomerCalculation',
+  'exchange' => 'App\\Http\\Livewire\\Exchange',
+  'expense' => 'App\\Http\\Livewire\\Expense',
+  'items' => 'App\\Http\\Livewire\\Items',
+  'login' => 'App\\Http\\Livewire\\Login',
+  'my-note' => 'App\\Http\\Livewire\\MyNote',
+  'pages-controller' => 'App\\Http\\Livewire\\PagesController',
+  'profile' => 'App\\Http\\Livewire\\Profile',
+  'report' => 'App\\Http\\Livewire\\Report',
+  'transfer' => 'App\\Http\\Livewire\\Transfer',
+);
