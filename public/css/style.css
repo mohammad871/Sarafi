@@ -1,0 +1,21 @@
+table:not(.bd-table) thead tr:first-child * {
+    background-color: #2a3a4c !important;
+    color: #ccc !important;
+    padding: 20px 10px !important;
+    border: none;
+}
+
+.alert{border-radius:0;position:fixed;top:10px;right:10px;border-bottom:2px solid #1a202c;z-index:99999}textarea{max-height:400px!important;min-height:100px!important}.dataTables_wrapper .dataTables_filter{float:left;display:inline-block;margin-top:-23px;margin-bottom:5px}.dataTables_wrapper select, .dataTables_filter input{border:2px solid var(--bs-gray);padding:5px;padding-right:10px;font-size:12px;border-radius:5px}.dataTables_filter input:focus{border:1px solid var(--bs-primary);outline:1px solid var(--bs-primary)!important}.dataTables_wrapper .dataTables_paginate .paginate_button.current{background:var(--bs-primary);color:#fff}.dataTables_wrapper .dataTables_paginate .paginate_button{background:var(--bs-white)}.dataTables_wrapper .dataTables_paginate .paginate_button{padding:5px 10px;display:inline-block;margin:10px 0;cursor:pointer}.dataTables_wrapper .dataTables_paginate .paginate_button.next.disabled,.dataTables_wrapper .dataTables_paginate .paginate_button.previous.disabled{background:var(--bs-secondary);color:var(--bs-light);cursor:text}.dataTables_wrapper .dataTables_paginate .paginate_button.next,.dataTables_wrapper .dataTables_paginate .paginate_button.previous{background:var(--bs-dark);color:var(--bs-light)}
+.loading{position:fixed;top:0;left:0;right:0;bottom:0;width:100%;height:100%;background:rgba(0,0,0,.5);z-index:9999;display:flex;text-align:center;align-items:center;justify-content:center;padding-top:35vh;color:#fff}
+
+.bd-next, .bd-prev {
+    white-space: nowrap;
+}
+.bd-title {
+    justify-content: space-between;
+    display: flex; 
+}
+.bd-main .bd-dropdown {
+    min-width: 50px !important;
+    width: 50px !important;
+}
